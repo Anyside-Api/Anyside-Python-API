@@ -3,7 +3,7 @@
 Welcome to the Anyside Python API!<br />
 [Node.js API](https://www.npmjs.com/package/anyside)
 
-In order to use the Anyside API you will need an API key. You can get your API key by creating an account and adding credit on [anyside.com](https://anyside.com/).
+In order to use the Anyside API you will need an API key. You can get your API key by creating an account on [anyside.com](https://anyside.com/).
 
 ## Installation
 

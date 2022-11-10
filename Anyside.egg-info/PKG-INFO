@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Anyside
-Version: 0.0.3
+Version: 0.0.4
 Summary: Anyside Python API
 Home-page: UNKNOWN
 Author: Anyside
@@ -22,7 +22,7 @@ Description-Content-Type: text/markdown
 Welcome to the Anyside Python API!<br />
 [Node.js API](https://www.npmjs.com/package/anyside)
 
-In order to use the Anyside API you will need an API key. You can get your API key by creating an account and adding credit on [anyside.com](https://anyside.com/).
+In order to use the Anyside API you will need an API key. You can get your API key by creating an account on [anyside.com](https://anyside.com/).
 
 ## Installation
 
