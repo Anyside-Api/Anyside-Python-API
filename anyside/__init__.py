@@ -1,2 +1,2 @@
-from main import comingsoon
+from anyside.anyside import Anyside
 
