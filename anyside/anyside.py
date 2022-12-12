@@ -2,7 +2,7 @@ import requests
 
 class Anyside:
     def __init__(self,api_key):
-        self.api_endpoint = "https://anyside.com/public"
+        self.api_endpoint = "https://api.anyside.com/public"
         self.api_key = api_key
         self.sess = requests.session()
 
